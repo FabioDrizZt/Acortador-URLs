@@ -1,0 +1,92 @@
+[
+  {
+    "codigoTransaccion": "81f6781c-c998-4468-b0c3-f7cc2b9d31ad",
+    "fechaGestion": "2024-10-17T22:41:26.660Z",
+    "usuario": "Usuario Ejemplo",
+    "sitio": "www.google.com",
+    "codigo": "69a63895",
+    "utiliza": "https://pico.li/69a63895",
+    "visitas": 0
+  },
+  {
+    "codigoTransaccion": "7ca511f0-bb55-4d0e-8794-47a6c71abf90",
+    "fechaGestion": "2024-10-17T22:45:38.763Z",
+    "usuario": "Usuario Ejemplo",
+    "sitio": "www.untref.com",
+    "codigo": "ff34d1c8",
+    "utiliza": "https://pico.li/ff34d1c8",
+    "visitas": 6
+  },
+  {
+    "codigoTransaccion": "264c7e72-f155-49c7-ac8f-7a3fc977b566",
+    "fechaGestion": "2024-10-17T22:48:08.884Z",
+    "usuario": "Usuario Ejemplo",
+    "sitio": "www.untref.com",
+    "codigo": "788f3f47",
+    "utiliza": "https://pico.li/788f3f47",
+    "visitas": 0
+  },
+  {
+    "codigoTransaccion": "a3068790-474e-43f4-ac11-c95fc60352f7",
+    "fechaGestion": "2024-10-17T22:55:32.424Z",
+    "usuario": "Usuario Ejemplo",
+    "sitio": "www.google.com",
+    "codigo": "4ed11a89",
+    "utiliza": "https://pico.li/4ed11a89",
+    "visitas": 0
+  },
+  {
+    "codigoTransaccion": "f1e8474c-e5a4-4c38-833a-e7f531db829d",
+    "fechaGestion": "2024-10-17T22:57:53.331Z",
+    "usuario": "Fer Moon",
+    "sitio": "https://www.urlquequieresacortar.com/ruta/documento.html",
+    "codigo": "a818255c",
+    "utiliza": "https://pico.li/a818255c",
+    "visitas": 0
+  },
+  {
+    "codigoTransaccion": "09923e41-cc1d-4092-b9ff-6f0b04186d62",
+    "fechaGestion": "2024-10-17T22:58:13.835Z",
+    "usuario": "Fer Moon",
+    "sitio": "https://www.urlquequieresacortar.com/ruta/documento.html",
+    "codigo": "Cust0mL1nk",
+    "utiliza": "https://pico.li/Cust0mL1nk",
+    "visitas": 3
+  },
+  {
+    "codigoTransaccion": "b6725b8b-9b1f-4c9f-a205-06632232bf45",
+    "fechaGestion": "2024-10-17T22:58:53.634Z",
+    "usuario": "Fer Moon",
+    "sitio": "https://www.urlquequieresacortar.com/ruta/documento.html",
+    "codigo": "c2856730",
+    "utiliza": "https://pico.li/c2856730",
+    "visitas": 4
+  },
+  {
+    "codigoTransaccion": "e9217124-caec-4062-a7cf-b74b9dd023a7",
+    "fechaGestion": "2024-10-17T22:59:51.263Z",
+    "usuario": "Fer Moon",
+    "sitio": "https://www.urlquequieresacortar.com/ruta/documento.html",
+    "codigo": "dd7c77f7",
+    "utiliza": "https://pico.li/dd7c77f7",
+    "visitas": 4
+  },
+  {
+    "codigoTransaccion": "0186c1c7-4979-4987-aa2e-47e9a2fe0aed",
+    "fechaGestion": "2024-10-17T23:58:00.718Z",
+    "usuario": "Fer Moon",
+    "sitio": "https://www.urlquequieresacortar.com/ruta/documento.html",
+    "codigo": "Cust0mL1n",
+    "utiliza": "https://pico.li/Cust0mL1n",
+    "visitas": 0
+  },
+  {
+    "codigoTransaccion": "bae085bc-1ec8-4297-b1a5-e91ac787c41a",
+    "fechaGestion": "2024-10-18T00:07:49.206Z",
+    "usuario": "Usuario Ejemplo",
+    "sitio": "www.untref.edu.ar",
+    "codigo": "asd",
+    "utiliza": "https://pico.li/asd",
+    "visitas": 0
+  }
+]

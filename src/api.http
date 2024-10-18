@@ -14,7 +14,7 @@ POST http://localhost:3000/acorta
 Content-Type: application/json
 
 {
-    "tulink": "Cust0mL1nk",
+    "tulink": "Cust0mL1n",
     "user": "Fer Moon",
     "url": "https://www.urlquequieresacortar.com/ruta/documento.html"
 }
@@ -27,7 +27,7 @@ GET http://localhost:3000/validar/mi-link
 ###
 
 # Redireccionar a la URL original con código generado (GET /:codigo)
-GET http://localhost:3000/bfed42cc
+GET http://localhost:3000/dd7c77f7
 
 ###
 

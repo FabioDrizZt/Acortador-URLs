@@ -20,20 +20,26 @@
                    placeholder="tu-link-favorito" 
                    required 
                    autocomplete="off" 
-                   spellcheck="false"
-            >
+                   spellcheck="false">
         </div>
         <p>ó</p>
         <div class="class-acortar">
             <p>Ingresa la URL que deseas acortar:</p>
-            <input type="sitio" id="sitio" 
+            <input type="text" id="sitio" 
                    placeholder="ejemplo: https://www.misitio.com/nosotros" 
                    required 
                    autocomplete="off" 
-                   spellcheck="false"
-            >
+                   spellcheck="false">
             <button id="acortar">ACORTAR</button>
         </div>
+
+        <!-- Lugar donde se mostrará la URL acortada -->
+        <div class="resultado">
+            <p>Tu URL acortada es:</p>
+            <a id="resultado-url" href="#" target="_blank">Acá aparecerá la URL acortada</a>
+        </div>
     </div>
+
+    <script src="/js/script.js"></script>
 </body>
 </html>

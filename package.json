@@ -2,9 +2,9 @@
   "name": "Acortador-URLs",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node --watch server.js"
+    "start": "standard --fix && node --watch src/server.js"
   },
   "keywords": [],
   "author": "",
